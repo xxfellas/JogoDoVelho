@@ -1,0 +1,22 @@
+# 🎮 Jogo da Velha Online (Node.js + WebSocket)
+
+Este é um projeto simples do clássico **Jogo da Velha (Tic Tac Toe)** com suporte a **multiplayer em tempo real**, desenvolvido com **Node.js**, **Express** e **Socket.IO**.
+
+---
+
+## 📦 Tecnologias Utilizadas
+
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [Socket.IO](https://socket.io/)
+- HTML5 + CSS3 + JS puro
+
+---
+
+## 🚀 Como Executar o Projeto
+
+### 1. Clone o repositório ou baixe os arquivos:
+
+```bash
+git clone https://github.com/seu-usuario/jogo-do-velho-node.git
+cd jogo-do-velho-node
